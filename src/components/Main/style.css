@@ -1,0 +1,11 @@
+body{
+    width: 1150px;
+height: 1100px;
+}
+
+.Main{
+    background-color: lightpink;
+    width: 1250px;
+    height: 1300px;
+    margin-left: 28%;
+}

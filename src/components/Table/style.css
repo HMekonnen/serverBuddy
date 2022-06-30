@@ -1,0 +1,11 @@
+.Table {
+  color: black;
+  background-color: greenyellow;
+  margin-top: 10%;
+  box-sizing: content-box;
+  border: double black;
+  width: 1450px;
+  height: 1100px;
+  margin-left: 20%;
+  margin-bottom: 1%;
+}

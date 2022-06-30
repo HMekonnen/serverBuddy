@@ -1,0 +1,42 @@
+.Waiter{
+    color: black;
+    background-color: pink;
+    box-sizing: content-box;
+  border: double black;
+  height: 100%;
+  width: 70%;
+  margin-left: 15%;
+  align-self: center;
+  }
+
+  .Waiter-Table1{
+    background-color: aquamarine;
+    height: 100%;
+  width: 50%;
+  margin-left: 25%;
+  }
+  
+  
+  .Waiter-Table2{
+    background-color: gray;
+    height: 100%;
+  width: 50%;
+  margin-left: 25%;
+  }
+  
+  
+  .Waiter-Table3{
+    background-color: purple;
+    height: 100%;
+  width: 50%;
+  margin-left: 25%;
+  }
+  
+  
+  
+  .Waiter-Table4{
+    background-color: yellow;
+    height: 100%;
+  width: 50%;
+  margin-left: 25%;
+  }
